@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 
 def main(msg):
+// praise be GOd
     print(msg)
 
 main("Hello People, are you ready?"
