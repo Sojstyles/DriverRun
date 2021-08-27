@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 
 def main(msg):
+    // Adding a different commit (conflict resolution)
     print(msg)
 
 main("Hello People, are you ready?"
