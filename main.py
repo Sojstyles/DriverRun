@@ -7,5 +7,4 @@ def secondary():
     print('New function')
 def third():
     print('Second function, this is just to check for further analysis')
-main("Hello People, are you ready?"
-     "Blessed are you O LORD, for you have made all things good  ")
+main("Hello People, are you ready?")
