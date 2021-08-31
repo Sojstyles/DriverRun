@@ -7,4 +7,6 @@ def secondary():
     print('New function')
 def third():
     print('Second function, this is just to check for further analysis')
-main("Hello People, are you ready?")
+
+                        
+
